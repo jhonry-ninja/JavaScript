@@ -1,0 +1,33 @@
+#container {
+    width: 40rem;
+    height: 30rem;
+    margin: 5rem auto;
+    padding: 5rem;
+}
+h3, h1 {
+    font-family: sans-serif;
+}
+#large-box {
+    width: 40rem;
+    height: 8rem;
+}
+.button {
+    background-color: gold;
+    color: black;
+    padding: 10px;
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+.fields {
+    float: right;
+    width: 20rem;
+    height: 2rem;
+}
+.drop {
+    float: right;
+    width: 20.25rem;
+    height: 2.5rem;
+}
