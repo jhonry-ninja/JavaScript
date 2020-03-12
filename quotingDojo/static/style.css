@@ -1,0 +1,54 @@
+#container-index {
+    width: 25rem;
+    height: 15rem;
+    margin: 3rem auto;
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 0.15rem solid red;
+    font-family: sans-serif;
+}
+#container-quotes {
+    width: 25rem;
+    margin: 3rem auto;
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 0.15rem solid gold;
+    font-family: sans-serif;
+}
+#error {
+    font-weight: bold;
+    color: red;
+}
+#quote {
+    font-weight: bold;
+    color: red;
+}
+#who {
+    font-weight: bold;
+    text-align: center;
+    color: gold;
+}
+
+#ctr {
+    text-align: center;
+}
+.fields {
+    width: 18rem;
+}
+.right {
+    float: right;
+}
+.btn1 {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 6.75rem;
+    color: black;
+    background-color: gold;
+}
+.btn2 {
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: -2.5rem;
+    color: black;
+    background-color: red;
+}
